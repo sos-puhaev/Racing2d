@@ -18,8 +18,9 @@ This is a simple 2D racing game built in Unity. The player controls a car that d
 - Language: C#
 - Platform: Windows / WebGL
 
-## 📷 Screenshots
+## 📷 Animation game play
 
+![Game Animation](2dTraffic.gif)
 
 
 ## 🚀 How to Play
