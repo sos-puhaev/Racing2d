@@ -1,0 +1,51 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+Thumbs.db
+
+# ===================== #
+# Visual Studio / Rider #
+# ===================== #
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# =========== #
+# Other files #
+# =========== #
+*.apk
+*.aab
+*.unitypackage
+*.log
+
+# ========= #
+# Auto saves #
+# ========= #
+*.autosave
+
+# ============ #
+# Crash reports #
+# ============ #
+sysinfo.txt
